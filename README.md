@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Malie2018/Malie2018/main/pexels-daniel-jurin-water.jpg" width="1080px">
 
 
-🧰 Toolbox <br>
+🧰 Toolbox <br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> | React | HTML | CSS | MongoDB | Typescript | Xd | SaSS | NodeJS | Postgre | MySQL
 
 🌱 I’m currently learning TypeScript and MongoDB
