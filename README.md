@@ -3,7 +3,9 @@
 
 
 🧰 Toolbox <br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> | React | HTML | CSS | MongoDB | Typescript | Xd | SaSS | NodeJS | Postgre | MySQL
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30px"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30px"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="30px"> |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="30px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30px">
+
+
 
 🌱 I’m currently learning TypeScript and MongoDB
 <!--
