@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/Malie2018/Malie2018/main/pexels-daniel-jurin-1835712(1).jpg" width="300px">
+<img src="https://raw.githubusercontent.com/Malie2018/Malie2018/main/pexels-daniel-jurin-1835712(1).jpg" width="800px">
 JavaScript | React | HTML | CSS | MongoDB | Typescript | Xd | SaSS | NodeJS | Postgre | MySQL
 
 🌱 I’m currently learning TypeScript and MongoDB
