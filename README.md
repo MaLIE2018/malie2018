@@ -10,7 +10,7 @@
 
 <br><br>
 
-🌱 I’m currently learning TypeScript, Redux, React-query
+🌱 I’m currently learning TypeScript, Forge, Cyber security
 <!--
 **MaLIE2018/malie2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
